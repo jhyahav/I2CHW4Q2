@@ -1,0 +1,3 @@
+Enter text to analyze:
+The sentence had 0 nouns, 2 verbs and 2 adjectives.
+The sentence had 1 nouns, 5 verbs and 0 adjectives.

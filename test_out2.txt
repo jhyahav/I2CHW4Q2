@@ -1,0 +1,15 @@
+Enter text to analyze:
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 4 verbs and 0 adjectives.
+The sentence had 1 nouns, 0 verbs and 2 adjectives.
+The sentence had 1 nouns, 3 verbs and 3 adjectives.
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 1 verbs and 1 adjectives.
+The sentence had 0 nouns, 1 verbs and 0 adjectives.
+The sentence had 0 nouns, 1 verbs and 0 adjectives.
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 0 verbs and 0 adjectives.
+The sentence had 0 nouns, 2 verbs and 1 adjectives.
+The sentence had 3 nouns, 0 verbs and 0 adjectives.
